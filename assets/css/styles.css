@@ -1859,7 +1859,7 @@ li .fa {
 }
 
 .mh-experince .mh-education-deatils .mh-education-item h4 a {
-  font-style: italic;
+  /* font-style: italic; */
   margin-left: 4px;
   color: #0bceaf;
 }
